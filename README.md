@@ -14,12 +14,12 @@ go to directory of program
 
 
 run in terminal:
-### this is a test for reversed_array 1 to 10 and array 10 to 1 should pass 
+## this is a test for reversed_array 1 to 10 and array 10 to 1 should pass 
 python3 test.py Test_reverse.test_reverse_list
 
 
 
-#### this is a test for two different array should failed
+## this is a test for two different array should failed
 python3 test.py Test_reverse.test_another_list
 
 
